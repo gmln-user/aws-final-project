@@ -1,7 +1,3 @@
-﻿Aqui está um **README.md completo, claro e profissional**, explicando como configurar, executar e enviar o resultado para o S3. Você pode copiar/colar direto no GitHub.
-
----
-
 # 🎬 GFLIX Data Processing — Movies & Ratings
 
 Projeto de processamento local de arquivos CSV (movies + customers_rating), geração de arquivo **Parquet** e upload para o **Amazon S3**.
@@ -167,4 +163,5 @@ MIT License.
 ---
 
 Se quiser, eu posso melhorar o README com badges, imagem do workflow ou diagramas da arquitetura.
+
 
